@@ -1,0 +1,33 @@
+{
+  "name": "redis-gui",
+  "version": "0.0.1",
+  "description": "redis gui console",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibare/redis-gui.git"
+  },
+  "keywords": [
+    "redis",
+    "client"
+  ],
+  "author": "Kim mintae <ibare77@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibare/redis-gui/issues"
+  },
+  "homepage": "https://github.com/ibare/redis-gui",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "coffee-script": "^1.9.2",
+    "gulp": "^3.8.11",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^1.3.3",
+    "gulp-shell": "^0.4.1",
+    "gulp-watch": "^4.2.4",
+    "mocha": "^2.2.4"
+  }
+}

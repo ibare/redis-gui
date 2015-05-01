@@ -1,0 +1,12 @@
+{
+  "name": "redis-gui",
+  "version": "0.0.1",
+  "main": "application.js",
+  "window": {
+    "width": 960,
+    "height": 800,
+    "frame": true
+  },
+  "dependencies": {
+  }
+}
